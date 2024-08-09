@@ -1,0 +1,1 @@
+An example of PCB design software is EasyEDA. Other examples open source examples are KiCad and Fritzing. Popular but commercial ones are Altium Designer and Circuit Maker. They all generally follow the same [[PCB workflow]].

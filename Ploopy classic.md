@@ -1,0 +1,1 @@
+There's a [Ploopy classic introduction wiki](https://github.com/ploopyco/classic-trackball/wiki/1.-Introduction). There's the official Github complete with the .stl files, for the 3D printing, and the Gerber files, for the PCB manufacture. 
