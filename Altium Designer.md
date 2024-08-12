@@ -1,0 +1,3 @@
+Doesn't matter
+
+Altium Designer has the ability to place components directly from a company's database.  An example is [Wurth Elektroniks](https://www.we-online.com/en) with a PDF guide that can be downloaded [here](https://www.we-online.com/en/news-center/press/press-releases?d=service-offer-speeds-up-design-process).  Usually,  one has to clone a Github library,  before importing it to your desktop app. 
