@@ -1,0 +1,5 @@
+
+Purely sensing:
+- [Sparkfun Lilypad temperature sensor](https://learn.sparkfun.com/tutorials/lilypad-temperature-sensor-hookup-guide) (cool, wearable project, even the development board can be stitched to clothing) (5 + 27 + 5 + 3 dollars) 
+- [Sending sensor data via Bluetooth](https://learn.sparkfun.com/tutorials/sending-sensor-data-via-bluetooth) (uses 2 ESP32 WROOM, a Bluetooth/Wifi focused board, also Qwiik which is Sparkfun's no-soldering connecting system, project also uses Sparkfun's accelerometer) (10 + 2x24 + 1 + 15 dollars) (parts are merely suggestions, the USB cable for 9 dollars, we can buy ourselves super cheap)
+- [Humidity and Temperature Sensor](https://learn.sparkfun.com/tutorials/si7021-humidity-and-temperature-sensor-hookup-guide) (Maybe not fun coz it uses a  breadboard, but it has the slightly cheaper, cool, simple Sparkfun Redboard, its Arduino R3 sheild compatible, programmed through Arduino IDE) (1 + 5 + 2 + 21 + 17 dollars)
