@@ -20,4 +20,4 @@ Some categories of them are:
 
 Most likely buying any which of these is fine. But a good idea is to look into some [[development board considerations]]
 
-There are far too many projects, but here is my personal [[development board project categories]]
+There are far too many projects, but here is my personal [[development board project categories & sites]]
